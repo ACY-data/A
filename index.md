@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[RELACIÓN RENTABILIDAD - ESTRUCTURA FINANCIERA](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Proyecto completo en el siguiente [enlace](https://drive.google.com/drive/folders/1-_S-M8CyFMSZ4kVHzw2sHdXfzZs_p9yy?usp=sharing) 
