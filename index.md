@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [RELACIÓN RENTABILIDAD - ESTRUCTURA FINANCIERA](/sample_page)
-<img src="images/images/Dashboard_proyecto1.png?raw=true"/>
+<img src="images/Dashboard_proyecto1.png?raw=true"/>
 
 Proyecto completo en el siguiente [enlace](https://drive.google.com/drive/folders/1-_S-M8CyFMSZ4kVHzw2sHdXfzZs_p9yy?usp=sharing) 
 
