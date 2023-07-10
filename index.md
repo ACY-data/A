@@ -1,4 +1,4 @@
-                                                       ## PORTAFOLIO
+## PORTAFOLIO
 
 ---
 # RELACIÓN RENTABILIDAD - ESTRUCTURA FINANCIERA
