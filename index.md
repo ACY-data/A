@@ -1,4 +1,4 @@
-## PORTAFOLIO
+# PORTAFOLIO
 
 ---
 # Relación rentabilidad - estructura financiera
