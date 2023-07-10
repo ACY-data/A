@@ -7,7 +7,7 @@ El objetivo de esta investigacon conistia en evaluar la rentabilidad en relació
 La conclusión a las cual se ha llegado es que, la relación entre la rentabilidad y la estructura financiera de las 1.000 empresas mas grande de Colombia para el año 2021 es negativa, pero la fuerza no es significativamente alta. 
 
 Proyecto completo [aquí](https://drive.google.com/drive/folders/1-_S-M8CyFMSZ4kVHzw2sHdXfzZs_p9yy?usp=sharing) 
-Dashboard [aquí](https://public.tableau.com/views/Proyecto1_16887864044240/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+y dashboard [aquí](https://public.tableau.com/views/Proyecto1_16887864044240/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ---
 
