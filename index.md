@@ -11,7 +11,8 @@ Proyecto completo [aquí](https://drive.google.com/drive/folders/1-_S-M8CyFMSZ4k
 y dashboard [aquí](https://public.tableau.com/views/Proyecto1_16887864044240/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ---
-# Evolucion del salario mínimo 
+# Evolucion del salario mínimo en Colombia
+En este video se presenta la evolución del salario mínimo de Colombia utilizando Power BI
 <div style="max-width: 500px">
 <video controls style="width: 100%">
   <source src="images/Studio_Project_V2.mp4" type="video/mp4">
