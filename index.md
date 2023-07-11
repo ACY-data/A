@@ -12,10 +12,11 @@ y dashboard [aquí](https://public.tableau.com/views/Proyecto1_16887864044240/Da
 
 ---
 # Evolucion del salario mínimo 
-
-<video controls>
+<div style="max-width: 500px">
+<video controls style="width: 100%">
   <source src="images/Studio_Project_V2.mp4" type="video/mp4">
 </video>
+  </div>
 ---
 
 
