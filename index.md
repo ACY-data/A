@@ -1,4 +1,7 @@
-# PORTAFOLIO               <center>    <img src="images/Logo personal.png?raw=true"/> </center>
+
+# <center>PORTAFOLIO   </center>
+       
+<center>    <img src="images/Logo personal.png?raw=true"/> </center>
 
 ---
 # Reporte de ventas 
