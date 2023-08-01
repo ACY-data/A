@@ -7,13 +7,13 @@
 
 <style>
   hr {
-    border: 2px solid black;
+    border: 2px solid #555555;
     margin: 20px 0;
   }
 </style>
 
 <hr>
----
+
 # Reporte de recursos humanos
 La empresa ACY me ha encargado la realización de un reporte de recursos humanos. Para ello me entrego un dataset y solicita un dashboard con las principales variables
 
