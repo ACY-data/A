@@ -6,8 +6,17 @@
 </center>
 
 ---
+# Reporte de recursos humanos
+
+
+
+
+<img src="images/Segundo proyecto.png?raw=true"/>
+Dashboard [aquí](https://lnkd.in/e6rsEWRv)
+
+---
 # Reporte de ventas 
-El director de marketing de la super tienda ACY me ha pedido que realice un informe de ventas. Quiere conocer las categorías y productos más vendidos, los datos filtrados por regiones para analizar las tendencias en las ventas, así como el principal método de envío y los principales clientes
+El director de marketing de la super tienda ACY me ha pedido que realice un informe de ventas. Quiere conocer las categorías y productos más vendidos, los datos filtrados por regiones para analizar las tendencias en las ventas, así como el principal método de envío y los principales clientes.
 
 <img src="images/Reporte de ventas.png?raw=true"/>
 Dashboard [aquí](https://acortar.link/r8rrAC)
