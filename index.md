@@ -1,4 +1,4 @@
-# PORTAFOLIO
+# PORTAFOLIO <img src="images/Logo personal.png?raw=true"/>
 
 ---
 # Reporte de ventas 
