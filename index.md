@@ -1,5 +1,5 @@
 <center>
-  <img src="images/Logo personal.png?raw=true" alt="Logo personal" width="200">
+  <img src="images/Logo personal.png?raw=true" alt="Logo personal" width="100">
 </center>
 
 # PORTAFOLIO 
