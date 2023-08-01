@@ -12,7 +12,8 @@ El director de marketing de la super tienda ACY me ha pedido que realice un info
 <img src="images/Reporte de ventas.png?raw=true"/>
 Dashboard [aquí](https://acortar.link/r8rrAC)
 
-Las conclusiones
+Tras analizar los datos, se ha llegado a la conclusión de que la empresa experimenta una tendencia creciente en sus ventas. Entre las categorías y productos más demandados, destacan Furniture y el Riverside Palais Royal Lawyers Bookcase. El método de envío predominante es el Standard Class. Además, los estados de California y Texas se destacan por tener los mayores niveles de ventas. Asimismo, se ha identificado a Anna Gayman como la principal cliente de la empresa. Estos hallazgos revelan una importante perspectiva sobre el desempeño de la empresa y sus áreas de enfoque para continuar potenciando sus ventas.
+
 
 ---
 # Relación rentabilidad - estructura financiera
