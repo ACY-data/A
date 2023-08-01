@@ -2,7 +2,7 @@
   <img src="images/Logo personal.png?raw=true" alt="Logo personal">
 </center>
 
-# <center>PORTAFOLIO   </center>
+# PORTAFOLIO 
        
 
 <style>
