@@ -23,7 +23,9 @@ layout: default
 
 
 ---
- <a href="https://www.linkedin.com/in/anderson-caicedo-yepez-7b6443a7/"> Perfil de LinkedIn</a> 
+ <a href="https://www.linkedin.com/in/anderson-caicedo-yepez-7b6443a7/">
+  <img src="ruta_de_tu_imagen.jpg" alt="Perfil de linkedIn">
+</a>
 
 
 
